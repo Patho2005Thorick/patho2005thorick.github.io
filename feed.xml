@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Patrick Thor</title>
+    <link href="https://github.com/Patho2005Thorick/patho2005thorick.github.io/feed.xml" rel="self" />
+    <link href="https://github.com/Patho2005Thorick/patho2005thorick.github.io" />
+    <updated>2024-11-22T11:21:55+01:00</updated>
+    <author>
+        <name>PatrickThor</name>
+    </author>
+    <id>https://github.com/Patho2005Thorick/patho2005thorick.github.io</id>
+
+    <entry>
+        <title>Mbot App</title>
+        <author>
+            <name>PatrickThor</name>
+        </author>
+        <link href="https://github.com/Patho2005Thorick/patho2005thorick.github.io/mbot-app/"/>
+        <id>https://github.com/Patho2005Thorick/patho2005thorick.github.io/mbot-app/</id>
+
+        <updated>2024-11-22T08:58:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                    During our fourth year in school, we got one task in the subject SYP. The task was to form groups and those groups should work on a project together over the span of half a year. This project consisted of programming an app which is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image align-center"><img loading="lazy"  src="https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/8/mbot2onbanner.webp" alt="" width="400" height="354" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/8/responsive/mbot2onbanner-xs.webp 640w ,https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/8/responsive/mbot2onbanner-sm.webp 768w ,https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/8/responsive/mbot2onbanner-md.webp 1024w ,https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/8/responsive/mbot2onbanner-lg.webp 1366w ,https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/8/responsive/mbot2onbanner-xl.webp 1600w ,https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/8/responsive/mbot2onbanner-2xl.webp 1920w"></figure>
+<p>During our fourth year in school, we got one task in the subject SYP. The task was to form groups and those groups should work on a project together over the span of half a year. This project consisted of programming an app which is able to control an Mbot. It was mandatory to use the scrum framework to plan our project. That meant that for example we made regular presentations about our progress.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Nimpola</title>
+        <author>
+            <name>PatrickThor</name>
+        </author>
+        <link href="https://github.com/Patho2005Thorick/patho2005thorick.github.io/nimpola/"/>
+        <id>https://github.com/Patho2005Thorick/patho2005thorick.github.io/nimpola/</id>
+
+        <updated>2024-11-22T08:58:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    In the third year of school I was part of a team which made a open world game name Nimpola. We did the game as part of one of our school subject. SYP. We were tasked to think of a project which we would do&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In the third year of school I was part of a team which made a open world game name Nimpola. We did the game as part of one of our school subject. SYP. We were tasked to think of a project which we would do as a team. In the end the project couldn't be finished in time because the project was too ambitous.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Online Shop</title>
+        <author>
+            <name>PatrickThor</name>
+        </author>
+        <link href="https://github.com/Patho2005Thorick/patho2005thorick.github.io/my-portfolio/"/>
+        <id>https://github.com/Patho2005Thorick/patho2005thorick.github.io/my-portfolio/</id>
+
+        <updated>2024-11-15T08:05:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I and a fellow classmate are currently working on our Diplomarbeit. Our Diplomarbeit consists of an Online Shop. The site is made with WordPress.&nbsp;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/1/used-books-1.jpg" height="400" width="800" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/1/responsive/used-books-1-xs.jpg 640w ,https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/1/responsive/used-books-1-sm.jpg 768w ,https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/1/responsive/used-books-1-md.jpg 1024w ,https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/1/responsive/used-books-1-lg.jpg 1366w ,https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/1/responsive/used-books-1-xl.jpg 1600w ,https://github.com/Patho2005Thorick/patho2005thorick.github.io/media/posts/1/responsive/used-books-1-2xl.jpg 1920w">
+      
+    </figure>
+
+  <p>
+    I and a fellow classmate are currently working on our Diplomarbeit. Our Diplomarbeit consists of an Online Shop. The site is made with WordPress.&nbsp;
+  </p>
+<div><a href ="https://github.com/Patho2005Thorick/OnlineShop"></a></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
